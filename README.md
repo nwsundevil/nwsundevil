@@ -20,7 +20,7 @@ Data Visualization: Tableau
 
 Data Analysis: SQL
 
-🌱 What I'm Working On
+🔭 What I'm Working On
 
 I'm currently diving deeper into data science by honing my skills in machine learning and advanced analytics. My goal is to leverage data to drive strategic business decisions and optimize supply chain operations.
 
