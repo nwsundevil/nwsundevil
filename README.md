@@ -26,7 +26,7 @@ I'm currently diving deeper into data science by honing my skills in machine lea
 
 🔗 Connect with Me
 
-LinkedIn
+![LinkedIn](www.linkedin.com/in/kevinljohnson6)
 
 Thanks for visiting! Let's connect and learn together.
 
